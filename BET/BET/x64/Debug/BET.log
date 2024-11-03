@@ -1,0 +1,106 @@
+﻿  BET.cpp
+C:\Users\mohda\source\repos\BET\BET\Header.h(301,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\mohda\source\repos\BET\BET\Header.h(272): message : while compiling class template member function 'std::vector<std::string,std::allocator<std::string>> ExpressionTree<float>::row_formatter(const std::vector<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>,std::allocator<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>>> &) const'
+C:\Users\mohda\source\repos\BET\BET\Header.h(409): message : see reference to function template instantiation 'std::vector<std::string,std::allocator<std::string>> ExpressionTree<float>::row_formatter(const std::vector<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>,std::allocator<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>>> &) const' being compiled
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(39): message : see reference to class template instantiation 'ExpressionTree<float>' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(209,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mohda\source\repos\BET\BET\Header.h(186): message : while compiling class template member function 'std::vector<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>,std::allocator<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>>> ExpressionTree<float>::get_row_display(void) const'
+C:\Users\mohda\source\repos\BET\BET\Header.h(407): message : see reference to function template instantiation 'std::vector<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>,std::allocator<std::vector<ExpressionTree<float>::cell_display,std::allocator<ExpressionTree<float>::cell_display>>>> ExpressionTree<float>::get_row_display(void) const' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(220,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mohda\source\repos\BET\BET\Header.h(842,1): warning C4305: 'return': truncation from 'int' to 'T'
+          with
+          [
+              T=bool
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(841): message : while compiling class template member function 'T ExpressionTree<T>::RecEvaluate(ExpressionTree<T>::Node *)'
+          with
+          [
+              T=bool
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(837): message : see reference to function template instantiation 'T ExpressionTree<T>::RecEvaluate(ExpressionTree<T>::Node *)' being compiled
+          with
+          [
+              T=bool
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(625): message : while compiling class template member function 'void ExpressionTree<bool>::Preorder(void)'
+C:\Users\mohda\source\repos\BET\BET\Header.h(1092): message : see reference to function template instantiation 'void ExpressionTree<bool>::Preorder(void)' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(473): message : while compiling class template member function 'ExpressionTree<bool>::ExpressionTree(std::string &,short)'
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(90): message : see reference to function template instantiation 'ExpressionTree<bool>::ExpressionTree(std::string &,short)' being compiled
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(90): message : see reference to class template instantiation 'ExpressionTree<bool>' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(1183,6): warning C4101: 'i': unreferenced local variable
+C:\Users\mohda\source\repos\BET\BET\Header.h(1182): message : while compiling class template member function 'void ExpressionTree<float>::breakTheString(std::string &,std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &)'
+C:\Users\mohda\source\repos\BET\BET\Header.h(434): message : see reference to function template instantiation 'void ExpressionTree<float>::breakTheString(std::string &,std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &)' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(798): message : while compiling class template member function 'int ExpressionTree<float>::nodeCount(ExpressionTree<float>::Node *) const'
+C:\Users\mohda\source\repos\BET\BET\Header.h(794): message : see reference to function template instantiation 'int ExpressionTree<float>::nodeCount(ExpressionTree<float>::Node *) const' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(625): message : while compiling class template member function 'void ExpressionTree<float>::Preorder(void)'
+C:\Users\mohda\source\repos\BET\BET\Header.h(1092): message : see reference to function template instantiation 'void ExpressionTree<float>::Preorder(void)' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(678): message : while compiling class template member function 'ExpressionTree<float>::ExpressionTree(const ExpressionTree<float> &)'
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(43): message : see reference to function template instantiation 'ExpressionTree<float>::ExpressionTree(const ExpressionTree<float> &)' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(862,67): warning C4551: function call missing argument list
+C:\Users\mohda\source\repos\BET\BET\Header.h(856): message : while compiling class template member function 'T ExpressionTree<T>::EvaluateNode(T,std::string,T)'
+          with
+          [
+              T=float
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(849): message : see reference to function template instantiation 'T ExpressionTree<T>::EvaluateNode(T,std::string,T)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(865,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(864,33): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(862,79): warning C4804: '/': unsafe use of type 'bool' in operation
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(242,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(985): message : see reference to function template instantiation 'std::pair<float,std::string>::pair<int,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,0>(std::pair<int,std::basic_string<char,std::char_traits<char>,std::allocator<char>>> &&) noexcept' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(985): message : see reference to function template instantiation 'std::pair<float,std::string>::pair<int,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,0>(std::pair<int,std::basic_string<char,std::char_traits<char>,std::allocator<char>>> &&) noexcept' being compiled
+C:\Users\mohda\source\repos\BET\BET\Header.h(966): message : while compiling class template member function 'void ExpressionTree<float>::toPostfix(std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &,std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &)'
+C:\Users\mohda\source\repos\BET\BET\Header.h(436): message : see reference to function template instantiation 'void ExpressionTree<float>::toPostfix(std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &,std::vector<std::pair<float,std::string>,std::allocator<std::pair<float,std::string>>> &)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(242,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(1255): message : see reference to function template instantiation 'std::pair<T,std::string>::pair<float,const char*,0>(std::pair<float,const char *> &&) noexcept(false)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(1255): message : see reference to function template instantiation 'std::pair<T,std::string>::pair<float,const char*,0>(std::pair<float,const char *> &&) noexcept(false)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(1182): message : while compiling class template member function 'void ExpressionTree<short>::breakTheString(std::string &,std::vector<std::pair<T,std::string>,std::allocator<std::pair<T,std::string>>> &)'
+          with
+          [
+              T=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(434): message : see reference to function template instantiation 'void ExpressionTree<short>::breakTheString(std::string &,std::vector<std::pair<T,std::string>,std::allocator<std::pair<T,std::string>>> &)' being compiled
+          with
+          [
+              T=short
+          ]
+C:\Users\mohda\source\repos\BET\BET\Header.h(873): warning C4715: 'ExpressionTree<float>::EvaluateNode': not all control paths return a value
+C:\Users\mohda\source\repos\BET\BET\Header.h(873): warning C4715: 'ExpressionTree<short>::EvaluateNode': not all control paths return a value
+C:\Users\mohda\source\repos\BET\BET\Header.h(873): warning C4715: 'ExpressionTree<bool>::EvaluateNode': not all control paths return a value
+  BET.vcxproj -> C:\Users\mohda\source\repos\BET\x64\Debug\BET.exe

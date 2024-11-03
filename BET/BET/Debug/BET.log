@@ -1,0 +1,7 @@
+﻿  BET.cpp
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(25,7): error C2001: newline in constant
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(25,2): error C2065: 'tree': undeclared identifier
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(25,7): error C2143: syntax error: missing ';' before 'string'
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(26,2): error C2146: syntax error: missing ';' before identifier 'copyConstructorTree'
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(26,2): error C2065: 'copyConstructorTree': undeclared identifier
+C:\Users\mohda\source\repos\BET\BET\BET.cpp(28,42): error C2065: 'myTree': undeclared identifier
